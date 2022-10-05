@@ -5,46 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73241af3-e842-4a9c-a0c0-82dfe8c3d990" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops_demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionFramework/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rahul/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rahul/BoxWeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rahul/Inheritance/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rahul/Inheritance/EnglishTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rahul/Inheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rahul/Inheritance/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rahul/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rahul/Polymorphism/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rahul/Polymorphism/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rahul/Polymorphism/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rahul/Polymorphism/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rahul/abstraction/Daughter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rahul/abstraction/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rahul/abstraction/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rahul/abstraction/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rahul/abstraction_bs/Daughter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rahul/abstraction_bs/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rahul/abstraction_bs/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rahul/abstraction_bs/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rahul/access/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rahul/access/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rahul/access/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rahul/cloning/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rahul/cloning/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rahul/comparator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rahul/comparator/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rahul/exceptionhandling/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rahul/generics/CustomList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rahul/generics/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rahul/singleton/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rahul/singlleton/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rahul/sorting/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rahul/DSA/countSubarrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +50,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MergeSort">
+  <component name="RunManager" selected="Application.countSubarrays">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="rahul.comparator.Main" />
       <module name="oops_demo" />
@@ -115,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rahul.cloning.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rahul.cloning.Main" />
+    <configuration name="countSubarrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rahul.DSA.countSubarrays" />
       <module name="oops_demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rahul.cloning.*" />
+          <option name="PATTERN" value="rahul.DSA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rahul.exceptionhandling.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rahul.exceptionhandling.Main" />
+    <configuration name="rahul.cloning.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rahul.cloning.Main" />
       <module name="oops_demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rahul.exceptionhandling.*" />
+          <option name="PATTERN" value="rahul.cloning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.countSubarrays" />
         <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.rahul.cloning.Main" />
         <item itemvalue="Application.rahul.singlleton.Main" />
-        <item itemvalue="Application.rahul.exceptionhandling.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +147,8 @@
       <workItem from="1664724366914" duration="2148000" />
       <workItem from="1664775579057" duration="2806000" />
       <workItem from="1664814632616" duration="1889000" />
-      <workItem from="1664880926319" duration="1154000" />
+      <workItem from="1664880926319" duration="1720000" />
+      <workItem from="1664952562622" duration="1809000" />
     </task>
     <servers />
   </component>
