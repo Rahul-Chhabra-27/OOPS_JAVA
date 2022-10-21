@@ -8,6 +8,7 @@ public class Main {
         Point point = new Point(1.0,2.0);
         Point point2 = new Point(point);
         Point point3 = (Point) point.clone();
+        System.out.println(point.equals(point2));
         System.out.println(point.x + " " + point.y);
         System.out.println(point2.x + " " + point2.y);
         System.out.println(point3.x + " " + point3.y);
